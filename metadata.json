@@ -1,0 +1,8 @@
+{
+  "name": "LiveChat",
+  "description": "Live streaming, PK battles, multi-guest voice party rooms, animated gifts, lucky wheel, and social VIP rewards",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

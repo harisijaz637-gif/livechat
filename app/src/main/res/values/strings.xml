@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LiveChat</string>
+    <string name="tagline">Live Stream &amp; Voice Party</string>
+    <string name="popular">Popular</string>
+    <string name="party">Party</string>
+    <string name="pk_battles">PK</string>
+    <string name="nearby">Nearby</string>
+    <string name="go_live">Go Live</string>
+    <string name="messages">Messages</string>
+    <string name="profile">Profile</string>
+    <string name="recharge">Top-up</string>
+    <string name="daily_task">Tasks</string>
+    <string name="lucky_wheel">Lucky Wheel</string>
+
+</resources>
